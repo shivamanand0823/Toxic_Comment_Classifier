@@ -18,6 +18,3 @@ Welcome to the Toxic Comments Classifier Repo.
 5. Copy the IP address where the Flask is running at (eg. 'http://127.0.0.1:5000/) into your browser
 6. You should see the app in action
 
-Hope you find the tutorials useful. If you have any constructive feedback, please send an email to linebyline.ai@gmail.com
- 
-Thank you!
